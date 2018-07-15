@@ -1,0 +1,10 @@
+// SublimeLinter Settings - User
+{
+    "paths": {
+        "linux": [
+            "/home/ishan/.config/composer/vendor/bin"
+        ],
+        "osx": [],
+        "windows": []
+    }
+}

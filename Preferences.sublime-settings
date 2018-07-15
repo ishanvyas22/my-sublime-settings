@@ -1,0 +1,31 @@
+{
+	"caret_style": "phase",
+	"color_scheme": "Packages/Dayle Rees Color Schemes/legacy/Contrast/Slime.tmTheme",
+	"font_face": "Roboto Mono",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 6,
+	"line_padding_top": 6,
+	"match_brackets": false,
+	"match_brackets_angle": false,
+	"match_brackets_braces": false,
+	"match_brackets_content": false,
+	"match_brackets_square": false,
+	"match_tags": false,
+	"spacegray_fileicons": true,
+	"spacegray_sidebar_font_large": true,
+	"spacegray_sidebar_tree_large": true,
+	"spacegray_tabs_font_normal": true,
+	"spacegray_tabs_xlarge": true,
+	"theme": "Spacegray Eighties.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
+}

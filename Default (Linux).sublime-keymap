@@ -1,0 +1,15 @@
+[
+    {
+        "keys": ["alt+e"],
+        "command": "expand_fqcn",
+        "args": {"leading_separator": true}
+    },
+    {
+        "keys": ["alt+u"],
+        "command": "find_use"
+    },
+    {
+        "keys": ["ctrl+alt+f"],
+        "command": "sublime_php_cs_fix"
+    }
+]
