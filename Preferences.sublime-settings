@@ -1,7 +1,7 @@
 {
 	"SublimeLinter.linters.phpcs.args": "--standard='PSR2'",
 	"caret_style": "phase",
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
 	"font_face": "Roboto Mono",
 	"font_options":
 	[

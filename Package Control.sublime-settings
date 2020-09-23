@@ -7,9 +7,8 @@
 	[
 		"A File Icon",
 		"AdvancedNewFile",
-		"Dayle Rees Color Schemes",
+		"Dracula Color Scheme",
 		"EditorConfig",
-		"Materialize",
 		"Package Control",
 		"PackageResourceViewer",
 		"PHP Companion",
@@ -17,8 +16,6 @@
 		"SnippetMaker",
 		"SublimeLinter",
 		"SublimeLinter-php",
-		"SublimeLinter-phpcs",
-		"Theme - Spaceblack",
-		"Theme - Spacegray"
+		"SublimeLinter-phpcs"
 	]
 }
