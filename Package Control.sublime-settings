@@ -5,9 +5,11 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"AdvancedNewFile",
 		"BracketHighlighter",
 		"Dayle Rees Color Schemes",
+		"EditorConfig",
 		"Materialize",
 		"Package Control",
 		"PackageResourceViewer",
